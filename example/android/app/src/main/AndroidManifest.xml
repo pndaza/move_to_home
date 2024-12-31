@@ -1,4 +1,5 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+package="mm.pndaza.move_to_home_example">
     <application
         android:label="move_to_home_example"
         android:name="${applicationName}"
